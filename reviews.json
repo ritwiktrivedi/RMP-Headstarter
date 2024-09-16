@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Smith",
+        "subject": "Physics",
+        "rating": 4,
+        "review": "Dr. Smith's lectures are thorough and engaging. She explains complex topics clearly, but sometimes goes through material too quickly."
+      },
+      {
+        "professor": "Prof. Michael Johnson",
+        "subject": "Mathematics",
+        "rating": 5,
+        "review": "Prof. Johnson is excellent! His teaching style is straightforward, and he always makes time for questions."
+      },
+      {
+        "professor": "Dr. Sarah Davis",
+        "subject": "Chemistry",
+        "rating": 3,
+        "review": "Dr. Davis is knowledgeable, but her lectures can be a bit hard to follow. Her office hours are very helpful though."
+      },
+      {
+        "professor": "Prof. Robert Lee",
+        "subject": "History",
+        "rating": 2,
+        "review": "Prof. Lee's lectures lack structure and are often hard to follow. The course material is interesting, but he doesn't seem very organized."
+      },
+      {
+        "professor": "Dr. Laura Wilson",
+        "subject": "Biology",
+        "rating": 4,
+        "review": "Dr. Wilson is a great professor. Her labs are well-organized and she is always willing to help students outside of class."
+      },
+      {
+        "professor": "Prof. James Brown",
+        "subject": "Philosophy",
+        "rating": 5,
+        "review": "Prof. Brown is amazing! His lectures are thought-provoking and he encourages class discussion. Highly recommend his classes."
+      },
+      {
+        "professor": "Dr. Lisa Martin",
+        "subject": "Psychology",
+        "rating": 3,
+        "review": "Dr. Martin's lectures are interesting, but her grading can be tough. Make sure to participate in class to understand her expectations."
+      },
+      {
+        "professor": "Prof. William Garcia",
+        "subject": "Computer Science",
+        "rating": 4,
+        "review": "Prof. Garcia is very knowledgeable about programming. His assignments are challenging but fair. Great professor for CS majors."
+      },
+      {
+        "professor": "Dr. Karen Martinez",
+        "subject": "Economics",
+        "rating": 2,
+        "review": "Dr. Martinez's lectures can be monotonous and difficult to understand. The exams are tough and not well-aligned with the lectures."
+      },
+      {
+        "professor": "Prof. David Hernandez",
+        "subject": "Political Science",
+        "rating": 5,
+        "review": "Prof. Hernandez is fantastic. He makes political science interesting and relevant. His classes are a must-take!"
+      },
+      {
+        "professor": "Dr. Angela Clark",
+        "subject": "Sociology",
+        "rating": 4,
+        "review": "Dr. Clark is a passionate professor who cares about her students. Her classes are engaging, though sometimes the workload is heavy."
+      },
+      {
+        "professor": "Prof. Thomas Rodriguez",
+        "subject": "Art History",
+        "rating": 3,
+        "review": "Prof. Rodriguez is very knowledgeable, but his lectures can be dry. You need to be interested in the subject to enjoy his class."
+      },
+      {
+        "professor": "Dr. Brian Lewis",
+        "subject": "Environmental Science",
+        "rating": 5,
+        "review": "Dr. Lewis is an exceptional professor. His enthusiasm for the subject is contagious, and he really knows how to engage his students."
+      },
+      {
+        "professor": "Prof. Jennifer Walker",
+        "subject": "Literature",
+        "rating": 3,
+        "review": "Prof. Walker has a good grasp of the material, but her classes can feel a bit rushed. Her grading is fair if you follow her guidelines."
+      },
+      {
+        "professor": "Dr. Christopher Young",
+        "subject": "Statistics",
+        "rating": 4,
+        "review": "Dr. Young explains statistical concepts very clearly. His classes are well-structured, though the exams are quite challenging."
+      },
+      {
+        "professor": "Prof. Patricia Hall",
+        "subject": "Music Theory",
+        "rating": 2,
+        "review": "Prof. Hall's classes are not very engaging, and she seems disinterested in teaching. The content could be interesting with a different approach."
+      },
+      {
+        "professor": "Dr. Steven Allen",
+        "subject": "Engineering",
+        "rating": 5,
+        "review": "Dr. Allen is one of the best professors I've had. His lectures are detailed, and he provides real-world applications for every concept."
+      },
+      {
+        "professor": "Prof. Elizabeth King",
+        "subject": "Geography",
+        "rating": 4,
+        "review": "Prof. King makes geography interesting with her interactive lectures. Be prepared for detailed map quizzes, though."
+      },
+      {
+        "professor": "Dr. Richard Scott",
+        "subject": "Law",
+        "rating": 3,
+        "review": "Dr. Scott's classes are informative, but they can be overwhelming due to the amount of reading. However, he is approachable during office hours."
+      },
+      {
+        "professor": "Prof. Sandra Harris",
+        "subject": "Anthropology",
+        "rating": 4,
+        "review": "Prof. Harris is a great professor who loves what she teaches. Her enthusiasm makes the classes enjoyable, although the exams are tough."
+      }
+    ]
+  }
+  
